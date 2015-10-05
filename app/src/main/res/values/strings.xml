@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sakaluk-reflex</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reaction_timer">Reaction Timer</string>
+    <string name="title_activity_gameshow_buzzer">Gameshow Buzzer</string>
+    <string name="reaction_timer_how_to">When you hit OK, a timer will begin. React as quickly as possible when it expires!</string>
+
+    <string name="reaction_timer_wait">Waiting...</string>
+    <string name="reaction_timer_go">HIT ME!!</string>
+    <string name="title_activity_stats_view">StatsViewActivity</string>
+</resources>
